@@ -12,7 +12,7 @@
 * **3M 的解法：** 超過 2 公尺又要維持 40Gbps 滿速，接頭內必須內建訊號放大晶片（Retimer），這就是**主動式（Active）線材**。
 * **買錯風險：** 千萬不要買市面上標榜「USB 3.2 10Gbps」或「僅供電」的 3M 充電線，那些完全無法傳輸 Pro Display 所需的巨大影像訊號。
 
-### 2. 傳輸頻寬與影像輸出
+### 2. 傳輸頻寬與影像輸出 (插頭上有閃電標誌)
 
 * 必須標明支援 **40Gbps** 傳輸速度。
 * 必須支援 **DisplayPort HBR3**（高位元率 3）影像輸出，這才能滿足高解析度（如 5K/6K 60Hz）的頻寬需求。
@@ -34,6 +34,8 @@
 針對 3 公尺的極端需求，你的選擇其實非常少，建議鎖定以下方向：
 
 ### 推薦首選：Apple 原廠 Thunderbolt 4 Pro 連接線 (3 公尺)
+[Apple Thunderbolt 4 (USB-C) Pro 連接線 (3 公尺)
+NT$4,890](https://www.apple.com/tw/shop/product/mw5h3fe/a/thunderbolt-4-usb-c-pro-%E9%80%A3%E6%8E%A5%E7%B7%9A-3-%E5%85%AC%E5%B0%BA?fnode=05bda574fba3af6223767e7cdfe6cef877d871350618cef469f1ef689e871741417abbbddb04b159ec26d6c30c6987950b783eb565cad087f2e2709bdab155410191e7fc17056ce540a60481686cb302f787c02466d789f4ae63bb441944c4c64d9a65c2d5237985c1badd7638f70662&fs=f%3Dcable%26fh%3D2e7837%252B45c4)
 
 這是目前市場上最穩妥、幾乎是唯一通過嚴格測試的 3M 滿速全功能銅線。
 
